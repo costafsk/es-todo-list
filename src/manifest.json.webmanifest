@@ -1,0 +1,10 @@
+{
+  "name": "Lista de tarefas",
+  "short_name": "to-do list",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "Scope": "/",
+  "start_url": "/",
+  "splash_pages": null
+}
